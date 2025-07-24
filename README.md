@@ -1,6 +1,6 @@
 # EduHub - Educational Resource Platform
 
-EduHub is a modern educational platform designed to provide students with easy access to study materials, practical guides, previous year papers, and syllabi for various subjects.
+EduHub is a modern educational platform designed to provide students with easy access to study materials, practical guides, previous year papers, and syllabus for various subjects.
 
 ## Features
 
@@ -8,7 +8,7 @@ EduHub is a modern educational platform designed to provide students with easy a
 - Study materials and resources
 - Practical guides and examples
 - Previous year question papers
-- Subject syllabi
+- Subject syllabus
 - Modern and responsive UI
 - Search functionality
 - Mobile-friendly design
